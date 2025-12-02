@@ -75,21 +75,6 @@ Loading required Python libraries for analysis.
 - Distribution plots  
 - Comparison between survived vs non-survived  
 - Feature correlation analysis  
-
-
-### ✔️ 4. Machine Learning Models  
-Models used:
-
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
-
-
-### ✔️ 5. Evaluation Metrics  
-- Accuracy Score  
-- Confusion Matrix  
-- Classification Report  
-
 ---
 
 ## 📈 Key Insights
