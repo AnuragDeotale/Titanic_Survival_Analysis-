@@ -22,8 +22,7 @@ It involves:
 
 └── README.md # Project Documentation
 
-yaml
-Copy code
+
 
 ---
 
